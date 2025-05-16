@@ -44,7 +44,7 @@ const Header = () => {
             <h1 className="text-2xl md:text-4xl font-bold font-retro text-white drop-shadow-[2px_2px_0px_rgba(0,0,0,0.8)] tracking-wide text-center">
               THE GREAT INDIAN 
               <br/>
-              <span className="text-retro-yellow shimmer">MARRIAGE MARKET</span>
+              <span className="text-retro-yellow">MARRIAGE MARKET</span>
             </h1>
             
             {/* Subtitle */}
